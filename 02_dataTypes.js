@@ -16,3 +16,6 @@ let isLoggedIn = false
 // undefined =>
 // symbol =>
 // object        
+
+// ********************************Operations********************
+
